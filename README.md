@@ -11,4 +11,5 @@ ____
 Программу можно открывать в любом IDE, поддерживающей Python. Язык написания программы: Python 3.7.
 ____
 # Скриншоты тестов программы:
+![тест 1](https://sun9-west.userapi.com/sun9-1/s/v1/ig2/t39oDnp4mG-55s9C9usDPDFjC0RCFAX53SMGXQDKejJArp37aGOHHidgpwpKgPdLXI3AEvqworSm3iMQgdCna60O.jpg?size=469x253&quality=96&type=album)
 
